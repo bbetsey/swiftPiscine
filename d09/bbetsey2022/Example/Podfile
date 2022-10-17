@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'bbetsey2022_Example' do
+  pod 'bbetsey2022', :path => '../'
+
+  target 'bbetsey2022_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

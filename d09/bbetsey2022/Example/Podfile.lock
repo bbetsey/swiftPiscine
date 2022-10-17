@@ -1,0 +1,16 @@
+PODS:
+  - bbetsey2022 (0.1.0)
+
+DEPENDENCIES:
+  - bbetsey2022 (from `../`)
+
+EXTERNAL SOURCES:
+  bbetsey2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bbetsey2022: 87a2d8de938fb133b727b720ed47e271c3cc9be3
+
+PODFILE CHECKSUM: 47112a222deb77759dc1770e22d7a15044496f4c
+
+COCOAPODS: 1.11.3

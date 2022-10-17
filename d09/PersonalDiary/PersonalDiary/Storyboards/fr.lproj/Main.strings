@@ -1,0 +1,54 @@
+
+/* Class = "UINavigationItem"; title = "Personal Diary"; ObjectID = "3Kd-qE-L3v"; */
+"3Kd-qE-L3v.title" = "Journal Personnel";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6O2-9e-Ft3"; */
+"6O2-9e-Ft3.text" = "Intitulé";
+
+/* Class = "UILabel"; text = "Step 3. Choose or take photo"; ObjectID = "9Xw-sq-jPf"; */
+"9Xw-sq-jPf.text" = "Step 3. Choose or take photo";
+
+/* Class = "UINavigationItem"; title = "New Article"; ObjectID = "9Yf-d5-HvW"; */
+"9Yf-d5-HvW.title" = "Nouvel Article";
+
+/* Class = "UIButton"; configuration.title = "Choose Photo"; ObjectID = "HGD-aF-1Es"; */
+"HGD-aF-1Es.configuration.title" = "Choisir une Photo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HGD-aF-1Es"; */
+"HGD-aF-1Es.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ecole42 project"; ObjectID = "HI2-XN-eE6"; */
+"HI2-XN-eE6.text" = "Projet Ecole 42";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "Ss0-kd-4i5"; */
+"Ss0-kd-4i5.placeholder" = "Intitulé";
+
+/* Class = "UILabel"; text = "Personal Diary"; ObjectID = "VmL-nL-RV6"; */
+"VmL-nL-RV6.text" = "Journal Personnel";
+
+/* Class = "UILabel"; text = "Created at: "; ObjectID = "XNH-Wh-RBs"; */
+"XNH-Wh-RBs.text" = "Created at: ";
+
+/* Class = "UIButton"; configuration.title = "Authorization"; ObjectID = "ZPn-UU-kyv"; */
+"ZPn-UU-kyv.configuration.title" = "Autorisation";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZPn-UU-kyv"; */
+"ZPn-UU-kyv.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Take Photo"; ObjectID = "bRb-Ja-jSK"; */
+"bRb-Ja-jSK.configuration.title" = "Prendre Une Photo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bRb-Ja-jSK"; */
+"bRb-Ja-jSK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Step 1. Write a title"; ObjectID = "czg-5X-7vt"; */
+"czg-5X-7vt.text" = "Step 1. Write a title";
+
+/* Class = "UILabel"; text = "Content"; ObjectID = "dh3-L4-Wjq"; */
+"dh3-L4-Wjq.text" = "Content";
+
+/* Class = "UILabel"; text = "Updated at: "; ObjectID = "m2O-uv-O8a"; */
+"m2O-uv-O8a.text" = "Updated at: ";
+
+/* Class = "UILabel"; text = "Step 2. Write a content"; ObjectID = "nnu-im-KZx"; */
+"nnu-im-KZx.text" = "Step 2. Write a content";
